@@ -116,6 +116,7 @@
 | [0735-asteroid-collision](https://github.com/vinay312/DSA-Practice/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/vinay312/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinay312/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinay312/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinay312/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/vinay312/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -196,4 +198,8 @@
 | [0182-duplicate-emails](https://github.com/vinay312/DSA-Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/vinay312/DSA-Practice/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/vinay312/DSA-Practice/tree/master/0184-department-highest-salary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
