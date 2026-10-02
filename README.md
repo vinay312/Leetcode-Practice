@@ -149,12 +149,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0907-sum-of-subarray-minimums](https://github.com/vinay312/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinay312/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinay312/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -210,5 +212,10 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
