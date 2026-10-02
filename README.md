@@ -205,6 +205,7 @@
 | [0184-department-highest-salary](https://github.com/vinay312/DSA-Practice/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/vinay312/DSA-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/vinay312/DSA-Practice/tree/master/0511-game-play-analysis-i) |
+| [0577-employee-bonus](https://github.com/vinay312/DSA-Practice/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/vinay312/DSA-Practice/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/vinay312/DSA-Practice/tree/master/1148-article-views-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vinay312/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
