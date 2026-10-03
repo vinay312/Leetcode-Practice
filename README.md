@@ -217,6 +217,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vinay312/DSA-Practice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vinay312/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/vinay312/DSA-Practice/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vinay312/DSA-Practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bracket Sequences
 |  |
 | ------- |
