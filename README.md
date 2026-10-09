@@ -114,6 +114,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinay312/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vinay312/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vinay312/DSA-Practice/tree/master/0735-asteroid-collision) |
@@ -236,4 +237,16 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinay312/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinay312/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/vinay312/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
