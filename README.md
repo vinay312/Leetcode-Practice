@@ -103,6 +103,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/vinay312/DSA-Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/vinay312/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vinay312/DSA-Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vinay312/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,4 +254,8 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/vinay312/DSA-Practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vinay312/DSA-Practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vinay312/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
