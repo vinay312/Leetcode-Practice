@@ -95,6 +95,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinay312/DSA-Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vinay312/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -107,6 +108,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vinay312/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinay312/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinay312/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
