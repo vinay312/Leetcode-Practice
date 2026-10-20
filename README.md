@@ -163,6 +163,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vinay312/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/vinay312/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/vinay312/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vinay312/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
