@@ -97,6 +97,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vinay312/DSA-Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/vinay312/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/vinay312/DSA-Practice/tree/master/0078-subsets) |
 | [0496-next-greater-element-i](https://github.com/vinay312/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vinay312/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/vinay312/DSA-Practice/tree/master/0735-asteroid-collision) |
@@ -182,6 +183,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vinay312/DSA-Practice/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vinay312/DSA-Practice/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/vinay312/DSA-Practice/tree/master/0389-find-the-difference) |
 ## Sliding Window
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vinay312/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/vinay312/DSA-Practice/tree/master/0078-subsets) |
 ## Tree
 |  |
 | ------- |
